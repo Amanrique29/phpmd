@@ -33,7 +33,6 @@
   "support": {
     "irc": "irc://irc.freenode.org/phpmd"
   },
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.3.9",
     "pdepend/pdepend": "dev-master",
